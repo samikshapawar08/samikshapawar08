@@ -1,15 +1,115 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiiikkshaaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samiksha-pawar-aa1018266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sameekchaaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/psamiksha_08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameekshapawar06@gmail.com) 
+# 💫 Hi, I'm Samiksha Pawar!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samiikkshaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samiikkshaaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiikkshaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 SYBSc IT Student | 💻 Aspiring Full-Stack Developer | 🚀 Passionate About Tech  
+📍 Based in India | 🧠 Currently mastering React, Node.js, and building real-world projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samiikkshaaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 About Me
+- 🔭 I’m currently working on: Building dynamic websites & full-stack web apps  
+- 🌱 I’m learning: Full Stack Development (React, Express, Node, MongoDB, Django & more!)  
+- 🎯 Goal: To land a remote internship & earn a 5+ LPA role by the time I graduate  
+- 💬 Ask me about: HTML, CSS, JavaScript, React, Tailwind, Git, Django, Flask, Laravel  
+- 🎬 Favorite Show: *Friends* (yup, I watch it during coding breaks 😄)
+
+---
+
+## 💻 Tech Stack Breakdown
+
+### 🧠 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 🛠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### 🗃 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+### ⚙ Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF018C?style=flat&logo=framer&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+### 🧩 Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+---
+
+## 🛠 Projects
+
+Here are some of the projects I've worked on 👇
+
+### 🔹 [Tech Magazine Website](https://github.com/samikshapawar/tech-magazine)
+> A modern, scroll-animated tech magazine built with Next.js, Tailwind CSS, and framer-motion. Fully responsive with a 3D grid design.
+
+### 🔹 [Task Manager App](https://github.com/samikshapawar/task-manager-app)
+> A full-stack to-do/task management app built with React, Node.js, Express, and MongoDB. Features authentication, CRUD operations, and user-specific task filtering.
+
+### 🔹 [Portfolio Website](https://github.com/samikshapawar/portfolio)
+> My personal developer portfolio built using React and TailwindCSS. Features smooth animations, responsive layout, and project showcases.
+
+### 🔹 [Weather App](https://github.com/samikshapawar/weather-app)
+> A simple weather app using HTML, CSS, and JavaScript. Fetches real-time weather data using the OpenWeather API.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samikshapawar08&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshapawar08&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samikshapawar08&theme=radical)](https://github.com/samikshapawar08)
+
+---
+
+## 🕓 GitHub Punch Card
+
+[![GitHub Punch Card](https://raw.githubusercontent.com/samikshapawar08/samikshapawar08/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/samikshapawar08)
+
+---
+
+## 🔗 Connect With Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/samiksha-pawar-aa1018266)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/psamiksha_08)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/samiiikkshaaaa)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sameekshapawar06@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/samikshapawar08)  
+
+---
+
+✨ *“Code today, conquer tomorrow.”*
