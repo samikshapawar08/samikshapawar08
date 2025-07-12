@@ -67,17 +67,9 @@
 
 Here are some of the projects I've worked on 👇
 
-### 🔹 [Tech Magazine Website](https://github.com/samikshapawar/tech-magazine)
+### 🔹 [Ai Pitch Geneartor Website](https://github.com/samikshapawar08/PitchCraft-Ai)
 > A modern, scroll-animated tech magazine built with Next.js, Tailwind CSS, and framer-motion. Fully responsive with a 3D grid design.
 
-### 🔹 [Task Manager App](https://github.com/samikshapawar/task-manager-app)
-> A full-stack to-do/task management app built with React, Node.js, Express, and MongoDB. Features authentication, CRUD operations, and user-specific task filtering.
-
-### 🔹 [Portfolio Website](https://github.com/samikshapawar/portfolio)
-> My personal developer portfolio built using React and TailwindCSS. Features smooth animations, responsive layout, and project showcases.
-
-### 🔹 [Weather App](https://github.com/samikshapawar/weather-app)
-> A simple weather app using HTML, CSS, and JavaScript. Fetches real-time weather data using the OpenWeather API.
 
 ---
 
