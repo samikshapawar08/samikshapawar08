@@ -9,7 +9,7 @@
 ## 🌱 About Me
 - 🔭 I’m currently working on: Building dynamic websites & full-stack web apps  
 - 🌱 I’m learning: Full Stack Development (React, Express, Node, MongoDB, Django & more!)  
-- 🎯 Goal: To land a remote internship & earn a 5+ LPA role by the time I graduate  
+- 🎯 Goal: To land a remote internship 
 - 💬 Ask me about: HTML, CSS, JavaScript, React, Tailwind, Git, Django, Flask, Laravel  
 - 🎬 Favorite Show: *Friends* (yup, I watch it during coding breaks 😄)
 
@@ -68,7 +68,7 @@
 Here are some of the projects I've worked on 👇
 
 ### 🔹 [Ai Pitch Geneartor Website](https://github.com/samikshapawar08/PitchCraft-Ai)
-> A modern, scroll-animated tech magazine built with Next.js, Tailwind CSS, and framer-motion. Fully responsive with a 3D grid design.
+> A modern, ai pitch generator website for startups.
 
 
 ---
