@@ -2,13 +2,13 @@
 # 💫 Hi, I'm Samiksha Pawar!
 
 🎓 SYBSc IT Student | 💻 Aspiring Full-Stack Developer | 🚀 Passionate About Tech  
-📍 Based in India | 🧠 Currently mastering React, Node.js, and building real-world projects
+📍 Based in India | 🧠 Currently building real-world projects
 
 ---
 
 ## 🌱 About Me
 - 🔭 I’m currently working on: Building dynamic websites & full-stack web apps  
-- 🌱 I’m learning: Full Stack Development (React, Express, Node, MongoDB, Django & more!)  
+- 🌱 I’m learning: Full Stack Development   
 - 🎯 Goal: To land a remote internship 
 - 💬 Ask me about: HTML, CSS, JavaScript, React, Tailwind, Git, Django, Flask, Laravel  
 - 🎬 Favorite Show: *Friends* (yup, I watch it during coding breaks 😄)
