@@ -90,7 +90,7 @@ Here are some of the projects I've worked on 👇
 
 ## 🕓 GitHub Punch Card
 
-[![GitHub Punch Card](https://raw.githubusercontent.com/samikshapawar08/samikshapawar08/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/samikshapawar08)
+![GitHub Punch Card](https://punchcardwidget.vercel.app/api/punchcard?user=samikshapawar08&theme=default)
 
 ---
 
