@@ -6,7 +6,7 @@
 
 ---
 
-## 🌱 About Me
+## 🌱 About Me:
 - 🔭 I’m currently working on: Building dynamic websites & full-stack web apps  
 - 🌱 I’m learning: Full Stack Development   
 - 🎯 Goal: To land a remote internship 
@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Tech Stack Breakdown
+## 💻 Tech Stack Breakdown:
 
 ### 🧠 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -63,7 +63,7 @@
 
 ---
 
-## 🛠 Projects
+## 🛠 Projects:
 
 Here are some of the projects I've worked on 👇
 
