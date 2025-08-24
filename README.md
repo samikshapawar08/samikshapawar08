@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: Building dynamic websites & full-stack web apps  
 - 🌱 I’m learning: Full Stack Development   
 - 🎯 Goal: To land a remote internship 
-- 💬 Ask me about: HTML, CSS, JavaScript, React, Tailwind, Django, Flask, Laravel  
+- 💬 Ask me about: HTML, CSS, JavaScript, React, nextjs, Typescript!
 - 🎬 Favorite Show: *Friends* (yup, I watch it during coding breaks )
 
 ---
