@@ -66,7 +66,7 @@
 
 Here are some of the projects I've worked on 👇
 
-### 🔹 [Ai Pitch Geneartor Website](https://github.com/samikshapawar08/PitchCraft-Ai)
+### 🔹 [Cryptoplace]((https://github.com/samikshapawar08/cryptoplace))
 > A modern, ai pitch generator website for startups.
 
 
