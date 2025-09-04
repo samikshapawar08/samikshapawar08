@@ -14,6 +14,11 @@ hii i am samiksha!
 ![](https://nirzak-streak-stats.vercel.app/?user=samikshapawar08&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshapawar08&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samikshapawar08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
