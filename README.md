@@ -1,5 +1,6 @@
 # 💫 About Me:
 hii i am samiksha!
+
 🔭 I’m currently working on<br>- Building **full-stack projects** to strengthen my portfolio  <br>👯 I’m looking to collaborate on<br>- **Open-source projects** in web development  <br>- **React / Node.js / Flutter** based applications  <br>- Innovative **student-friendly tools** or **productivity apps**  <br>🤝 I’m looking for help with<br>- Best practices in **backend development** and **database optimization**  <br>- Preparing for **remote internships** and **freelance opportunities**  <br>🌱 I’m currently learning<br>- **Full Stack Development** (Frontend + Backend + Database)  <br>- **React Native** for cross-platform mobile apps  <br>- **Flutter basics** for mobile app development  <br>💬 Ask me about<br>- **Frontend Development** (HTML, CSS, JavaScript, React)  <br>- **Project ideas** for beginners and intermediate devs  <br>- My journey as a **BSc IT student aiming for IT industry**  <br>⚡ Fun fact<br>When I’m not coding, I enjoy watching **Friends reruns on vacations 🛫🍿**,  <br>and I believe debugging is just solving mysteries in disguise 🕵️‍♀️.  
 
 
